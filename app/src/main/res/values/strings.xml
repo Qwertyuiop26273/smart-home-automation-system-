@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Home Automation by PC</string>
+    <string name="app_short_name">Smart Home</string>
+    <string name="brand_name">PanhwarCode</string>
+    <string name="developer_credit">Developed by PanhwarCode</string>
+    <string name="portfolio_url">https://ferozalipanhwar.github.io/portfolio/</string>
+</resources>

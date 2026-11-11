@@ -1,0 +1,8 @@
+{
+  "name": "Smart Home Automation by PC",
+  "description": "Smart Home Automation IoT control dashboard for Arduino Uno/Nano with 4-channel relays and DHT11 sensor by PanhwarCode",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
